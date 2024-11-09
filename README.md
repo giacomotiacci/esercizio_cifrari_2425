@@ -1,6 +1,6 @@
-# esercizio_cifrari_2425__
-Esercizio Programmazione Procedurale 24/25__
-Scrivere__
-Nome__ 
-Cognome__
-Matricola__
+# esercizio_cifrari_2425  
+Esercizio Programmazione Procedurale 24/25  
+Scrivere  
+Nome  
+Cognome  
+Matricola  
